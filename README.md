@@ -11,6 +11,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.9-blue" alt="Python 3.9">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+    <a href="https://arxiv.org/abs/2505.13398"><img src="https://img.shields.io/badge/arXiv-2505.13398-b31b1b.svg" alt="arXiv"></a>
 </p>
 
 <p align="center">
@@ -147,3 +148,16 @@ python analysis/analyze_backprop_results.py
 ```
 
 Note that the analysis scripts will both generate the target plot figure in the paper as well as the latex tables.
+
+## Citation
+
+```bib
+@misc{2025minimumdescriptionlengthapproach,
+      title={A Minimum Description Length Approach to Regularization in Neural Networks}, 
+      author={Matan Abudy and Orr Well and Emmanuel Chemla and Roni Katzir and Nur Lan},
+      year={2025},
+      eprint={2505.13398},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.13398}, 
+}
